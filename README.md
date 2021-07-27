@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marbri-18
+- 👋 Hi, I’m Martin Bridgman @marbri-18
 - 👀 I’m interested in Full stack development, digital illustration using Affinity designer, GIS and spatial analysis using QGIS.
 - 🌱 I’m currently learning Diploma in Software Development (E-commerce Applications) with Code Institute/Learning People.
 - 💞️ I’m looking to collaborate on ...
